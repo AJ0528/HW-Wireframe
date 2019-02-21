@@ -1,0 +1,36 @@
+body{font-family: Arial, Helvetica, sans-serif;
+    columns: white;;
+    background: #777777;
+    width:960px;
+    font-size: 18px;}
+/* header/nav */
+.top{background: #ebebee;
+    width:960px; }
+/* section */
+#box{ background-color:#ebebee;
+    color:#777777;
+    text-align: center;
+    width: 495px;
+    height: 198px;
+   padding: 20px;
+   position: relative;
+   top: -237px;
+   right: -20px;}
+#article{color:#ebebee;
+background-color:#777;
+ border: 30px;
+height: 140px;
+width: 475px;
+position: relative;
+right: -30px;
+top: -445px;
+text-align: center;
+padding: 20px;
+}
+#heading{ background-color: #ebebeb;
+    text-align: center;
+    width: 400px;
+    padding: 10px;
+    position: relative;
+    top: -590px;
+    right: -84px;}
