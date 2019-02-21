@@ -8,29 +8,28 @@ body{font-family: Arial, Helvetica, sans-serif;
     width:960px; }
 /* section */
 #box{ background-color:#ebebee;
-    color:#777777;
+    color:#e60b0b;
     text-align: center;
     width: 495px;
-    height: 198px;
-   padding: 20px;
-   position: relative;
-   top: -237px;
-   right: -20px;}
+    height: 392px;
+   padding: 25px;
+   top: -221px;
+   right: -16px;}
 #article{color:#ebebee;
 background-color:#777;
- border: 30px;
-height: 140px;
-width: 475px;
+ border: 31px;
+height: 146px;
+width: 495px;
 position: relative;
-right: -30px;
-top: -445px;
+right: -12px;
+top: -219px;
 text-align: center;
-padding: 20px;
+padding: 10px;
 }
 #heading{ background-color: #ebebeb;
     text-align: center;
-    width: 400px;
+    width: 409px;
     padding: 10px;
     position: relative;
-    top: -590px;
-    right: -84px;}
+    top: -365px;
+    right: -62px;}
