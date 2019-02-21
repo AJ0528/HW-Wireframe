@@ -19,21 +19,20 @@ body{font-family: Arial, Helvetica, sans-serif;
     color:#e60b0b;
     text-align: center;
     width: 496px;
-    height: 211px;
-   padding: 37px;
-   right: -21px;
-margin-left:300px;}
+    height: 198px;
+    padding: 37px;
+    margin-left:300px;}
 
 #article{color:#ebebee;
 background-color:#777;
  border: 31px;
 height: 146px;
-width: 495px;
+width: 460px;
 position: relative;
 right: -25px;
-top: -219px;
+top: -55px;
 text-align: center;
-padding: 10px;
+padding: 22px;
 margin-left:300px;
 }
 #heading{ background-color: #ebebeb;
@@ -41,7 +40,7 @@ margin-left:300px;
     width: 409px;
     padding: 10px;
     position: relative;
-    top: -365px;
+    top: -204px;
     right: -62px;
     margin-left:300px;}
 
@@ -50,27 +49,27 @@ margin-left:300px;
     width: 409px;
     padding: 10px;
     position: relative;
-    top: -365px;
+    top: -204px;
     right: -60px;
 margin-left:300px;}
 
 #aside{ background-color: #ebebeb;
     text-align: center;
-    margin-left: 839px;
-    width: 496px;
-    height: 261px;
-    padding:6px;
+    width: 423px;
+    height: 198px;
     position: relative;
-    right: -59px;
-padding-top:1px;
-padding-bottom:6px;}
+    right: -1014px;
+    padding-top:22px;
+    padding-bottom:8px;
+    margin-top:-289;
+    margin:-125px}
 
 footer{  background-color: #ebebeb;
     padding: 20px;
     margin: 20px;
     position: relative;
-    top: -314px;
+    top: -168px;
     margin-left:300px;
-    height:14px;
+    height:20px;
     width:495px;
     padding-left:500px;}
