@@ -2,7 +2,8 @@ body{font-family: Arial, Helvetica, sans-serif;
     columns: white;;
     background: #777777;
     width:960px;
-    font-size: 18px;}
+    font-size: 18px;
+    float:left;}
 /* header/nav */
 .top{background: #ebebee;
     margin-bottom:26px;
@@ -17,11 +18,10 @@ body{font-family: Arial, Helvetica, sans-serif;
 #box{ background-color:#ebebee;
     color:#e60b0b;
     text-align: center;
-    width: 495px;
-    height: 221px;
-   padding: 25px;
-   top: -221px;
-   right: -16px;
+    width: 496px;
+    height: 211px;
+   padding: 37px;
+   right: -21px;
 margin-left:300px;}
 
 #article{color:#ebebee;
@@ -30,7 +30,7 @@ background-color:#777;
 height: 146px;
 width: 495px;
 position: relative;
-right: -12px;
+right: -25px;
 top: -219px;
 text-align: center;
 padding: 10px;
@@ -54,20 +54,22 @@ margin-left:300px;
     right: -60px;
 margin-left:300px;}
 
-aside{ background-color: #ebebeb;
+#aside{ background-color: #ebebeb;
     text-align: center;
-    margin-left: 500px;
+    margin-left: 839px;
     width: 496px;
-    height: 198px;
-    padding: 20px;
+    height: 261px;
+    padding:6px;
     position: relative;
-    right: -75px;}
+    right: -59px;
+padding-top:1px;
+padding-bottom:6px;}
 
 footer{  background-color: #ebebeb;
     padding: 20px;
     margin: 20px;
     position: relative;
-    top: -510px;
+    top: -314px;
     margin-left:300px;
     height:14px;
     width:495px;
